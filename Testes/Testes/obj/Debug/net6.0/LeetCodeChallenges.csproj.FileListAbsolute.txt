@@ -1,0 +1,15 @@
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.csproj.AssemblyReference.cache
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.AssemblyInfoInputs.cache
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.AssemblyInfo.cs
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.csproj.CoreCompileInputs.cache
+C:\Users\joana.santos\source\repos\Testes\Testes\bin\Debug\net6.0\LeetCodeChallenges.exe
+C:\Users\joana.santos\source\repos\Testes\Testes\bin\Debug\net6.0\LeetCodeChallenges.deps.json
+C:\Users\joana.santos\source\repos\Testes\Testes\bin\Debug\net6.0\LeetCodeChallenges.runtimeconfig.json
+C:\Users\joana.santos\source\repos\Testes\Testes\bin\Debug\net6.0\LeetCodeChallenges.dll
+C:\Users\joana.santos\source\repos\Testes\Testes\bin\Debug\net6.0\LeetCodeChallenges.pdb
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.dll
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\refint\LeetCodeChallenges.dll
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.pdb
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\LeetCodeChallenges.genruntimeconfig.cache
+C:\Users\joana.santos\source\repos\Testes\Testes\obj\Debug\net6.0\ref\LeetCodeChallenges.dll
